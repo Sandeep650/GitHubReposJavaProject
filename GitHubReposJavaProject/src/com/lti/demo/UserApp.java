@@ -6,6 +6,6 @@ public class UserApp {
 		Product p = new Product(101,"Mobile",1000);
 		System.out.println(p);
 		System.out.println("New Line Added");
-		System.out.println("New Line Added");
+		System.out.println("New Line Added once again");
 	}
 }
